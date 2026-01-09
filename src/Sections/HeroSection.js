@@ -5,7 +5,7 @@ function HeroSection() {
     <section className="w-full py-28 lg:ps-44 pb-36">
       <div className="flex flex-col-reverse lg:flex-row items-start gap-8 lg:gap-x-36 px-4 lg:px-12">
         {/* Text Content */}
-        <div className="lg:w-1/2 flex flex-col items-start py-24">
+        <div className="lg:w-1/2 flex flex-col items-start">
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight text-left">
             More than just shorter links
           </h1>
