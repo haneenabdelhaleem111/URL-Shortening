@@ -76,7 +76,7 @@ const Navbar = () => {
           </a>
           <a
             href="#signup"
-            className="cursor-pointer bg-blue-600 text-white px-4 py-1.5 sm:px-5 sm:py-2 rounded-full hover:bg-blue-700 transition text-base sm:text-lg"
+            className="cursor-pointer bg-[#2BCFCF] text-white px-4 py-1.5 sm:px-5 sm:py-2 rounded-full hover:bg-[#6FE1E1] transition text-base sm:text-lg"
           >
             Sign Up
           </a>
