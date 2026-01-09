@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex items-center gap-4 sm:gap-6">
           <img src="/images/logo.svg" alt="logo" className="h-8 sm:h-10" />
 
-          <ul className="hidden md:flex items-center gap-4 sm:gap-6 text-base md:text-xl pl-4">
+          <ul className="hidden md:flex items-center gap-4 sm:gap-6 text-base md:text-lg pl-4">
             <li className="cursor-pointer font-semibold hover:text-black text-gray-500">
               Features
             </li>
@@ -25,7 +25,7 @@ const Navbar = () => {
 
         {/* Auth + Hamburger */}
         <div className="flex items-center gap-4 sm:gap-6">
-          <ul className="hidden md:flex items-center gap-4 sm:gap-6 text-base md:text-xl">
+          <ul className="hidden md:flex items-center gap-4 sm:gap-6 text-base md:text-lg">
             <li className="cursor-pointer hover:text-black text-gray-500 font-semibold">
               Login
             </li>
