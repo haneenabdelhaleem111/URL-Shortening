@@ -46,12 +46,12 @@ function Footer() {
           <h4 className="text-white text-xl font-semibold mb-4">Resources</h4>
           <ul className="space-y-2 text-xl ">
             <li>
-              <a href="#" className="hover:text-cyan-400">
+              <a href="#blog" className="hover:text-cyan-400">
                 Blog
               </a>
             </li>
             <li>
-              <a href="#" className="hover:text-cyan-400">
+              <a href="#devs" className="hover:text-cyan-400">
                 Developers
               </a>
             </li>
