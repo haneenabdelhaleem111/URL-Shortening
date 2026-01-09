@@ -2,7 +2,7 @@ import React from "react";
 
 function HeroSection() {
   return (
-    <section className="w-full py-28 lg:ps-44 pb-36">
+    <section className="w-full py-36 lg:ps-44 pb-36 ">
       <div className="flex flex-col-reverse lg:flex-row items-start gap-8 lg:gap-x-36 px-4 lg:px-12">
         {/* Text Content */}
         <div className="lg:w-1/2 flex flex-col items-start">
