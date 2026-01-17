@@ -54,5 +54,5 @@ The project overall helped me implement the design, see the challenges in fetchi
 
 ## 📍 Author
 
-- LinkedIn - [ Haneen Abdelhaleem ] https://www.linkedin.com/in/haneen-abdulhaleem20306/
+- LinkedIn - [ Haneen Abdelhaleem ] https://www.linkedin.com/in/haneen-abdulhaleem20306/ | haneen.abdelhaleem11@gmail.com
 
