@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://shrortly.netlify.app/)
+- Live Site URL:(https://shrortly.netlify.app/)
 
 ## My process
 
