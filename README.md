@@ -26,14 +26,14 @@ Users should be able to:
   - The `input` field is empty
 
 
-### Links
+### 🔗 Links
 
 - Live Site URL:(https://shrortly.netlify.app/)
 
 ## Deployement 
 -Deployed on netlify
 
-##🚀 My process
+## 🚀 My process
 
 ### Built with
 - [React](https://reactjs.org/) - JS library
@@ -52,7 +52,7 @@ using tailwindcss was an addition also
 
 The project overall helped me implement the design, see the challenges in fetching APIs
 
-## Author
+## 📍 Author
 
 - LinkedIn - [ Haneen Abdelhaleem ] https://www.linkedin.com/in/haneen-abdulhaleem20306/
 
