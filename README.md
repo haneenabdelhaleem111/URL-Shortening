@@ -30,7 +30,7 @@ Users should be able to:
 
 - Live Site URL:(https://shrortly.netlify.app/)
 
-## Deployement 
+### Deployement 
 -Deployed on netlify
 
 ## 🚀 My process
