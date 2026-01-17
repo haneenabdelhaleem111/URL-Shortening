@@ -1,6 +1,6 @@
 # Frontend Mentor - Shortly URL shortening API Challenge solution
 
-## Table of contents
+## ⭐ Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -30,7 +30,10 @@ Users should be able to:
 
 - Live Site URL:(https://shrortly.netlify.app/)
 
-## My process
+## Deployement 
+-Deployed on netlify
+
+##🚀 My process
 
 ### Built with
 - [React](https://reactjs.org/) - JS library
