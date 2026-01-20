@@ -1,4 +1,5 @@
 # Frontend Mentor - Shortly URL shortening API Challenge solution
+<img width="1920" height="1200" alt="URL-shortenner" src="https://github.com/user-attachments/assets/42f49adf-360f-4901-9107-e833b75920f4" />
 
 ## ⭐ Table of contents
 
